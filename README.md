@@ -12,7 +12,7 @@ Benötigte Bibliotheken:
 Benötigte FB´s:
 	->FB_TcpClient (ist enthalten)
 	
-Benötigte Lizensen:
+Benötigte Lizenzen:
 	-> TF6310
 
 Weiteres:
